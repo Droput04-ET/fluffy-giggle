@@ -1,2 +1,4 @@
 .Go {
-requirements.txt /configure.scan ; /Makefile.in 
+requirements.txt
+}
+{.Go /configure.scan ; /Makefile.in 
