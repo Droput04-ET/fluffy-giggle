@@ -1,4 +1,4 @@
-"Hard way".Go {
+Hard/way .Go {
 requirements.txt
 }
 {.Go /configure.scan ; /Makefile.in 
